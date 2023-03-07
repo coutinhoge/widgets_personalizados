@@ -4,7 +4,8 @@
 
 <div align="center">
     <h3><i>Dependências</i></h3>
-    <p>- Nenhuma; além dos pacotes padrões... Cupertino e Material.</P>
+    <p>- Além dos pacotes padrões... Cupertino e Material.</P>
+    <p>- Package widgets</P>
 </div>
 
 <div align="center">
